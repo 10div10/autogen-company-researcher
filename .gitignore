@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+outputs/*.pdf
+outputs/*.docx
+!outputs/.gitkeep
+.DS_Store
+*.egg-info/
+.cache/
